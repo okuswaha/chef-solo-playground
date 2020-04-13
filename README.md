@@ -1,7 +1,7 @@
 # chef-solo-playground
 learning chef
 To run chef-solo use the following command
-> chef-solo -c solo.rb -j node.json
+`chef-solo -c solo.rb -j node.json`
 
 **solo.rb** file tells the chef where to find cookbooks and roles
 
